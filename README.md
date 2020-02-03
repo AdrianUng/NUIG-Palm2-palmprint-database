@@ -4,6 +4,7 @@
 NUIG_Palm2 represents a collection of hand images acquired in a variety of conditions, with the ultimate goal of training Machine Learning algorithms that can perform the task of Palmprint Region of Interest (ROI) extraction.
 The palmprint ROIs can then be used for Palmprint recognition.
 
+![alt text](images/palmprint_points_variation_v1.png "Logo Title Text 1")
 ## How to obtain the database
 * coming soon
 
